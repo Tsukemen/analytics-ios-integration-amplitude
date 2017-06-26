@@ -10,9 +10,9 @@
 		44D7CCFF1F01C04A00ADAB03 /* SegmentAmplitude.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 44D7CCF51F01C04A00ADAB03 /* SegmentAmplitude.framework */; };
 		44D7CD041F01C04A00ADAB03 /* SegmentAmplitudeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44D7CD031F01C04A00ADAB03 /* SegmentAmplitudeTests.swift */; };
 		44D7CD061F01C04A00ADAB03 /* SegmentAmplitude.h in Headers */ = {isa = PBXBuildFile; fileRef = 44D7CCF81F01C04A00ADAB03 /* SegmentAmplitude.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		44D7CD131F01C06000ADAB03 /* SEGAmplitudeIntegration.h in Headers */ = {isa = PBXBuildFile; fileRef = 44D7CD0F1F01C06000ADAB03 /* SEGAmplitudeIntegration.h */; };
+		44D7CD131F01C06000ADAB03 /* SEGAmplitudeIntegration.h in Headers */ = {isa = PBXBuildFile; fileRef = 44D7CD0F1F01C06000ADAB03 /* SEGAmplitudeIntegration.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		44D7CD141F01C06000ADAB03 /* SEGAmplitudeIntegration.m in Sources */ = {isa = PBXBuildFile; fileRef = 44D7CD101F01C06000ADAB03 /* SEGAmplitudeIntegration.m */; };
-		44D7CD151F01C06000ADAB03 /* SEGAmplitudeIntegrationFactory.h in Headers */ = {isa = PBXBuildFile; fileRef = 44D7CD111F01C06000ADAB03 /* SEGAmplitudeIntegrationFactory.h */; };
+		44D7CD151F01C06000ADAB03 /* SEGAmplitudeIntegrationFactory.h in Headers */ = {isa = PBXBuildFile; fileRef = 44D7CD111F01C06000ADAB03 /* SEGAmplitudeIntegrationFactory.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		44D7CD161F01C06000ADAB03 /* SEGAmplitudeIntegrationFactory.m in Sources */ = {isa = PBXBuildFile; fileRef = 44D7CD121F01C06000ADAB03 /* SEGAmplitudeIntegrationFactory.m */; };
 		44D7CD1A1F01C15000ADAB03 /* Amplitude.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 44D7CD181F01C15000ADAB03 /* Amplitude.framework */; };
 		44D7CD1B1F01C15000ADAB03 /* Analytics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 44D7CD191F01C15000ADAB03 /* Analytics.framework */; };
