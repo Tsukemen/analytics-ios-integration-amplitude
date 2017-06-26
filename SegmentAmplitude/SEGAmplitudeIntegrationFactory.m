@@ -3,7 +3,7 @@
 
 @implementation SEGAmplitudeIntegrationFactory
 
-+ (instancetype)instance
++ (instancetype)shared
 {
     static dispatch_once_t once;
     static SEGAmplitudeIntegrationFactory *sharedInstance;
@@ -13,7 +13,7 @@
     return sharedInstance;
 }
 
-- (id)init
+- (instancetype)init
 {
     self = [super init];
     return self;
